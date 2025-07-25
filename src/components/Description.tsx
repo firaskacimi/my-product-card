@@ -1,4 +1,4 @@
-import { product } from '../data/product.js';
+import { product } from '../data/product';
 
 const Description = () => {
   return (

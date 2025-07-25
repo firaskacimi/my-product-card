@@ -1,4 +1,4 @@
-import { product } from '../data/product.js';
+import { product } from '../data/product';
 import headphonesImg from '../assets/headphones.jpg';
 
 const Image = () => {

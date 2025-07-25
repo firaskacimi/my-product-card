@@ -1,9 +1,9 @@
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import Name from '../components/Name.js';
-import Price from '../components/Price.js';
-import Description from '../components/Description.js';
-import Image from '../components/Image.js';
+import Name from '../components/Name';
+import Price from '../components/Price';
+import Description from '../components/Description';
+import Image from '../components/Image';
 import headphonesImg from '../assets/headphones.jpg';
 import profileImg from '../assets/profile.jpg';
 
